@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">restaurant</string>
+    <string name="app_name">Restaurant</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_firstName">First Name</string>
+    <string name="hint_lastName">Last Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_repeatPassword">Repeat password</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_add">Add</string>
+    <string name="err_msg_firstName">Enter your first name</string>
+    <string name="err_msg_lastName">Enter your last name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+    <string name="restaurant_name">Name:</string>
+    <string name="restaurant_rating">Rating:</string>
+    <string name="restaurant_address">Address:</string>
+    <string name="restaurant_description">Description:</string>
+    <string name="restaurant_telephone">Telephone:</string>
 </resources>
