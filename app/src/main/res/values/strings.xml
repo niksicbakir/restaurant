@@ -8,6 +8,7 @@
     <string name="hint_repeatPassword">Repeat password</string>
     <string name="btn_register">Register</string>
     <string name="btn_add">Add</string>
+    <string name="btn_login">Login</string>
     <string name="err_msg_firstName">Enter your first name</string>
     <string name="err_msg_lastName">Enter your last name</string>
     <string name="err_msg_email">Enter valid email address</string>
