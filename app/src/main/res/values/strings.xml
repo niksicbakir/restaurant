@@ -17,4 +17,8 @@
     <string name="restaurant_address">Address:</string>
     <string name="restaurant_description">Description:</string>
     <string name="restaurant_telephone">Telephone:</string>
+    <string name="err_msg_restaurant_name">Enter restaurant name</string>
+    <string name="err_msg_restaurant_description">Enter restaurant description</string>
+    <string name="err_msg_restaurant_address">Enter restaurant address</string>
+    <string name="err_msg_restaurant_telephone">Enter restaurant telephone</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.mutacije.restaurant;
+package com.mutacije.restaurant.activities;
 
 import android.support.design.widget.TextInputLayout;
 import android.support.v7.app.AppCompatActivity;
@@ -11,6 +11,8 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import com.mutacije.restaurant.R;
 
 public class RegisterActivity extends AppCompatActivity {
 
